@@ -1,0 +1,2 @@
+It is a practice web developing project based on html and css.  
+It is e-commerce platform that offers a variety of products, including electronics, clothing, beauty products, and household items. The platform is known for providing quality products at competitive prices and often focuses on offering goods that cater to a broad audience. It operates similarly to other Chinese e-commerce platforms, providing features like product search, online payment, customer reviews, and home delivery. 
